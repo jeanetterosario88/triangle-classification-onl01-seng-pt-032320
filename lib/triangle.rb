@@ -28,8 +28,6 @@ class Triangle
        
        
 end
-
-k = Triangle.new(0,0,0).kind
        
        
 
